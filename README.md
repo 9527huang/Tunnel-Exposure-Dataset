@@ -1,4 +1,4 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 # Tunnel-Exposure-Dataset
 
 自适应曝光模型对比（市区隧道）
