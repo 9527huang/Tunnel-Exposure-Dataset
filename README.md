@@ -6,9 +6,7 @@
 
 
 Centernet检测-光流检测-毫米波雷达检测（对比）
-
-![img](https://github.com/9527huang/Tunnel-Exposure-Dataset/blob/main/%E8%87%AA%E9%80%82%E5%BA%94%E6%9B%9D%E5%85%89%E5%AF%B9%E6%AF%94.gif)
-
+![img](https://github.com/9527huang/Tunnel-Exposure-Dataset/blob/main/3%E4%B8%AA%E6%A1%86%E5%B1%B1%E5%9C%B0%E9%9A%A7%E9%81%93%E5%85%A5%E5%8F%A3ppt.gif)
 
 
 融合检测（对比）
