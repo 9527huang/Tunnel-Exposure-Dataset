@@ -4,16 +4,6 @@
 
 ![img](https://github.com/9527huang/Tunnel-Exposure-Dataset/blob/main/%E8%87%AA%E9%80%82%E5%BA%94%E6%9B%9D%E5%85%89%E5%AF%B9%E6%AF%94.gif)
 
-
-Centernet检测-光流检测-毫米波雷达检测（对比）
-![img](https://github.com/9527huang/Tunnel-Exposure-Dataset/blob/main/3%E4%B8%AA%E6%A1%86%E5%B1%B1%E5%9C%B0%E9%9A%A7%E9%81%93%E5%85%A5%E5%8F%A3ppt.gif)
-
-
-融合检测（对比）
-
-![img](https://github.com/9527huang/Tunnel-Exposure-Dataset/blob/main/%E8%87%AA%E9%80%82%E5%BA%94%E6%9B%9D%E5%85%89%E5%AF%B9%E6%AF%94.gif)
-
-
 ## 简介
 本仓库旨在收集和共享一系列在不同曝光时间下拍摄的图像，以支持自动驾驶、机器人视觉等领域的研究。数据集涵盖了多种光照条件，有助于理解曝光对图像质量的影响。
 
@@ -85,3 +75,18 @@ Centernet检测-光流检测-毫米波雷达检测（对比）
 ## 联系方式
 
 如有任何问题或建议，请通过[邮箱](2583246961@qq.com)联系我们。
+
+
+## Centernet检测-光流检测-毫米波雷达检测（对比）
+![img](https://github.com/9527huang/Tunnel-Exposure-Dataset/blob/main/3%E4%B8%AA%E6%A1%86%E5%B1%B1%E5%9C%B0%E9%9A%A7%E9%81%93%E5%85%A5%E5%8F%A3ppt.gif)
+
+![img](https://github.com/9527huang/Tunnel-Exposure-Dataset/blob/main/3%E4%B8%AA%E6%A1%86%E5%B1%B1%E5%9C%B0%E9%9A%A7%E9%81%93%E5%87%BA%E5%8F%A3ppt.gif
+
+![img](https://github.com/9527huang/Tunnel-Exposure-Dataset/blob/main/3%E4%B8%AA%E6%A1%86%E5%B8%82%E5%8C%BA%E9%9A%A7%E9%81%93%E5%85%A5%E5%8F%A3ppt.gif)
+
+![img](https://github.com/9527huang/Tunnel-Exposure-Dataset/blob/main/3%E4%B8%AA%E6%A1%86%E5%B8%82%E5%8C%BA%E9%9A%A7%E9%81%93%E5%87%BA%E5%8F%A3ppt.gif)
+
+## 融合检测
+![img](https://github.com/9527huang/Tunnel-Exposure-Dataset/blob/main/%E8%9E%8D%E5%90%88%E5%B1%B1%E5%9C%B0%E9%9A%A7%E9%81%93%E5%87%BA%E5%8F%A3_ppt.gif)
+
+![img](https://github.com/9527huang/Tunnel-Exposure-Dataset/blob/main/%E8%9E%8D%E5%90%88%E5%B1%B1%E5%9C%B0%E9%9A%A7%E9%81%93%E5%85%A5%E5%8F%A3_ppt.gif)
